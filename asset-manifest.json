@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/COVID-19-Statewise-Data/static/css/main.ea234d5c.css",
+    "main.js": "/COVID-19-Statewise-Data/static/js/main.3d0ba226.js",
+    "index.html": "/COVID-19-Statewise-Data/index.html",
+    "main.ea234d5c.css.map": "/COVID-19-Statewise-Data/static/css/main.ea234d5c.css.map",
+    "main.3d0ba226.js.map": "/COVID-19-Statewise-Data/static/js/main.3d0ba226.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea234d5c.css",
+    "static/js/main.3d0ba226.js"
+  ]
+}
